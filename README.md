@@ -2,6 +2,7 @@
 In this project, I implement an approach to detect edge. This approach focus on low resolution depth image. 
 This work implemented from paper “ LBP Based_Edge_Detection_Method_for_Depth_Images_With_Low_Resolutions” Link : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8556465
 Method
+
 The proposed edge detection method involves three main steps:
 
 Adjusting the contrast of the depth image using a simple linear contrast stretching technique. This enhances the visibility of edges for later processing.
